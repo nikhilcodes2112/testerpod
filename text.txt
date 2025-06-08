@@ -1,0 +1,3 @@
+...
+this is texts file,for keeping some words about the repo
+and place for trials documentation
